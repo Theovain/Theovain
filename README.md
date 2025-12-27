@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Theovain
 - 👀 I’m interested in java
-- 🌱 I’m currently learning DAM
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me marioduranjpn@gmail.com
